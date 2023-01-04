@@ -9,9 +9,12 @@ The code repository for "Hierarchy SeparateEMD For Few-Shot Learning" in PyTorch
                    Lin Shu and
                    Shengjie Hu},
       title     = {Hierarchy SeparateEMD For Few-Shot Learning},
-      booktitle = {Asian Simulation Conference},
-      pages     = {0001--0002},
-      year      = {2022}
+      booktitle="Methods and Applications for Modeling and Simulation of Complex Systems",
+      year="2022",
+      publisher="Springer Nature Singapore",
+      address="Singapore",
+      pages="548--560",
+      isbn="978-981-19-9198-1"
     }
 
 ## Embedding Adaptation with Set-to-Set Functions
