@@ -57,14 +57,14 @@ The MiniImageNet dataset is a subset of the ImageNet that includes a total numbe
 
 
 ## Code Structures
-To reproduce our experiments with FEAT, please use **train_fsl.py**. There are four parts in the code.
+To reproduce our experiments, please use **train_fsl.py**. There are four parts in the code.
  - `model`: It contains the main files of the code, including the few-shot learning trainer, the dataloader, the network architectures, and baseline and comparison models.
  - `data`: Images and splits for the data sets.
  - `saves`: The pre-trained weights of different networks.
  - `checkpoints`: To save the trained models.
 
 ## Model Training and Evaluation
-Please use **train.py** and follow the instructions below. FEAT meta-learns the embedding adaptation process such that all the training instance embeddings in a task is adapted, based on their contextual task information, using Transformer. The file will automatically evaluate the model on the meta-test set with 10,000 tasks after given epochs.
+Please use **train.py** and follow the instructions below. The file will automatically evaluate the model on the meta-test set with 10,000 tasks after given epochs.
 
 ## Training scripts for SeparateEMD
 
