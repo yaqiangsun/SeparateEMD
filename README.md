@@ -17,7 +17,7 @@ The code repository for "Hierarchy SeparateEMD For Few-Shot Learning" in PyTorch
       isbn="978-981-19-9198-1"
     }
 
-## Embedding Adaptation with Set-to-Set Functions
+## SeparateEMD
 
 We propose a novel model-based approach to adapt the few shot classifacation task. We denote our method as Hierarchy SeparateEMD.
 
